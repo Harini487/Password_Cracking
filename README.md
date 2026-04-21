@@ -1,6 +1,6 @@
 # Password Cracking using John The Ripper
 
-A beginner-friendly cybersecurity lab project demonstrating password hash cracking using **John the Ripper**, a custom **Python-based rule generation utility**, and a themed wordlist — built for learning and CTF practice.
+A beginner-friendly cybersecurity lab project demonstrating password hash cracking using **John the Ripper**, a custom **Python-based rule generation utility**, and a themed wordlist built for learning and CTF practice.
 
 ---
 
@@ -121,7 +121,3 @@ john --format=Raw-MD5 --config=john.conf --rules=DinoSet --wordlist=dinos.txt ha
 ## 🛠️ Tools Used
 
 `John the Ripper` `Python 3` `Kali Linux` `MD5 Hashing`
-
----
-
-*Part of my cybersecurity portfolio — built for educational and CTF purposes.*
