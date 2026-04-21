@@ -100,7 +100,7 @@ john --format=Raw-MD5 --config=john.conf --rules=DinoSet --wordlist=dinos.txt ha
 ## 📁 Project Structure
 
 ```
-├── rule-generator.py       # Python script to generate John rules
+├── johnRulesGenerator.py   # Python script to generate John rules
 ├── john.conf               # Custom John the Ripper config with DinoSet rules
 ├── dinos.txt               # Dinosaur-themed wordlist
 ├── hashes.txt              # Sample MD5 hashes (fictional, for lab use only)
